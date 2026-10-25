@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="S D Karthikesh - Software Engineer | AI / GenAI Engineer" width="100%" />
+  <img src="./assets/header.svg"  width="100%" />
 </p>
 
 <p align="center">

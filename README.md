@@ -154,8 +154,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikesh15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&hide=issues&custom_title=GitHub%20Stats" alt="GitHub Stats" width="49%" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikesh15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="49%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikesh15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&hide=issues&card_width=450" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikesh15&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&cache_seconds=86400&card_width=450" alt="Top Languages" width="49%" />
 </p>
 
 <img src="./assets/sec-connect.svg" width="100%" alt="Let's Connect" />

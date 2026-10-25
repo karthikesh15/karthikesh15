@@ -143,17 +143,19 @@
 
 <img src="./assets/sec-activity.svg" width="100%" alt="Coding Activity" />
 
+<!--
 <p align="center">
   <img src="./assets/matrix.svg" width="100%" alt="Contribution matrix" />
 </p>
+-->
 
 <p align="center">
   <img src="./assets/snake.svg" width="100%" alt="Contribution snake" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikesh15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikesh15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikesh15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" card_width="500" line_height="24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikesh15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="49%" card_width="500" line_height="24" />
 </p>
 
 <img src="./assets/sec-connect.svg" width="100%" alt="Let's Connect" />
